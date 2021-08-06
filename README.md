@@ -25,7 +25,7 @@ _**You need another (dummy) Telegram Account To Use/Deploy This!**_
 Before You Deploy make sure you Starred & Forked **[father!](https://t.me/shubhamsharmajee)** 🤗️
 ## The Easy Way ⚡️
 ### With Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/roymusicplay/musicroy-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rks1499035/sks.git)
 
 
 #### Get Pyrogram String Session
