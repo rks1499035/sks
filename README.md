@@ -1,6 +1,6 @@
-# music Roy bot
+# music Rks bot
 ### ![MusicsNexa_bot](https://telegra.ph/file/6f492162d375674fe959c.jpg)
-**A [ABHINAS_ROY](https://t.me/abhinasroy) Based Telegram Bot and Userbot To Play Music in Your Telegram Groups With Some Cool Extra Features!**
+**A [SHUBHAM SHARMA](https://t.me/shubhamsharmajee) Based Telegram Bot and Userbot To Play Music in Your Telegram Groups With Some Cool Extra Features!**
 ## Note!⚠️ ,
 _**You need another (dummy) Telegram Account To Use/Deploy This!**_
 ## Features 🔥️
@@ -22,7 +22,7 @@ _**You need another (dummy) Telegram Account To Use/Deploy This!**_
 - **Update Your Bot Without Leaving Telegram**
 **Please Refer [Command Explanation](https://itz-fork.gitbook.io/callsmusic-plus/about#command-explanation) to Know How To Use These Commands and Know More About Them!**
 # Deployment
-Before You Deploy make sure you Starred & Forked **[father!](https://t.me/abhinasroy)** 🤗️
+Before You Deploy make sure you Starred & Forked **[father!](https://t.me/shubhamsharmajee)** 🤗️
 ## The Easy Way ⚡️
 ### With Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/roymusicplay/musicroy-bot)
