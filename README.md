@@ -1,5 +1,5 @@
 # music Rks bot
-### ![MusicsNexa_bot](https://telegra.ph/file/6f492162d375674fe959c.jpg)
+### ![MusicsNexa_bot](https://telegra.ph/file/4fa616e9c77b433de7f68.jpg)
 **A [SHUBHAM SHARMA](https://t.me/shubhamsharmajee) Based Telegram Bot and Userbot To Play Music in Your Telegram Groups With Some Cool Extra Features!**
 ## Note!⚠️ ,
 _**You need another (dummy) Telegram Account To Use/Deploy This!**_
