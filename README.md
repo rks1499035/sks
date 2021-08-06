@@ -25,23 +25,23 @@ _**You need another (dummy) Telegram Account To Use/Deploy This!**_
 Before You Deploy make sure you Starred & Forked **[father!](https://t.me/shubhamsharmajee)** 🤗️
 ## The Easy Way ⚡️
 ### With Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/roymusicplay/musicroy-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rks1499035/sks.git)
 
 
 #### Get Pyrogram String Session
 <a href="https://replit.com/@IamHirusha/GetPyroSessionVC"><img src="https://img.shields.io/badge/Run-Repl.it-white?style=for-the-badge&logo=repl.it"></a>
-<a href="https://replit.com/@ChankitSaini/GenerateStringSession"><img src="https://img.shields.io/badge/Run-Repl.it-white?style=for-the-badge&logo=repl.it"></a>
+
 
 
 ## Support!
 Facing Problems While Deploying or Using? **[Read How To Deploy](https://itz-fork.gitbook.io/callsmusic-plus/deploying-the-bot)**
-or Ask Me In **[ABHINAS SUPPORT GROUP](https://t.me/DOSTI_GROUP_1234)**
+or Ask Me In **[SHUBHAM GROUP](https://t.me/sks_musicsupport)**
 # More Info** For the Guides on How to Deploy and Getting Config Values.
 <p align="center">
  
 </p>
 ## Credits
-- **[ABHINAS_ROY](https://t.me/abhinasroy) ~ This is the base Repo! ❤️**
+- **[SHUBHAM SHARMA](https://t.me/shubhamsharmajee) ~ This is the base Repo! ❤️**
 - **[Roj](https://github.com/rojserbest) & [Marvin](https://github.com/BlackStoneReborn)** : development
 - **[Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX)** : PyTgCalls
 - **Mr Dark prince**
